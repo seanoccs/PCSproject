@@ -1,0 +1,386 @@
+[
+  {
+    "product_id": "001",
+    "brand": "Waldorf",
+    "model": "RN8510G",
+    "category": "Ovens",
+    "sub_category": "Gas Range",
+    "size": "900mm",
+    "rrp": 8500,
+    "your_price": 6799,
+    "your_url": "https://eattucker.com/products/waldorf-rn8510g",
+    "image_url": "https://via.placeholder.com/400x300/1a472a/ffffff?text=Waldorf+RN8510G",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 7299,
+        "url": "https://hospodirect.com.au/waldorf-rn8510g",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 7499,
+        "url": "https://commercialkitchen.com.au/waldorf-rn8510g",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 8200,
+        "url": "https://cateringequipment.com.au/waldorf-rn8510g",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "002",
+    "brand": "Waldorf",
+    "model": "RN8610G",
+    "category": "Ovens",
+    "sub_category": "Gas Range",
+    "size": "1200mm",
+    "rrp": 10500,
+    "your_price": 8499,
+    "your_url": "https://eattucker.com/products/waldorf-rn8610g",
+    "image_url": "https://via.placeholder.com/400x300/1a472a/ffffff?text=Waldorf+RN8610G",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 9199,
+        "url": "https://hospodirect.com.au/waldorf-rn8610g",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 8999,
+        "url": "https://commercialkitchen.com.au/waldorf-rn8610g",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 10200,
+        "url": "https://cateringequipment.com.au/waldorf-rn8610g",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "003",
+    "brand": "Turbofan",
+    "model": "E32D4",
+    "category": "Ovens",
+    "sub_category": "Convection Oven",
+    "size": "4 Tray",
+    "rrp": 5200,
+    "your_price": 4299,
+    "your_url": "https://eattucker.com/products/turbofan-e32d4",
+    "image_url": "https://via.placeholder.com/400x300/2d5f3f/ffffff?text=Turbofan+E32D4",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 4599,
+        "url": "https://hospodirect.com.au/turbofan-e32d4",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 4799,
+        "url": "https://commercialkitchen.com.au/turbofan-e32d4",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": null,
+        "url": "https://cateringequipment.com.au/turbofan-e32d4",
+        "status": "alert"
+      }
+    ]
+  },
+  {
+    "product_id": "004",
+    "brand": "Turbofan",
+    "model": "E35D6",
+    "category": "Ovens",
+    "sub_category": "Convection Oven",
+    "size": "6 Tray",
+    "rrp": 6800,
+    "your_price": 5599,
+    "your_url": "https://eattucker.com/products/turbofan-e35d6",
+    "image_url": "https://via.placeholder.com/400x300/2d5f3f/ffffff?text=Turbofan+E35D6",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 5999,
+        "url": "https://hospodirect.com.au/turbofan-e35d6",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 6199,
+        "url": "https://commercialkitchen.com.au/turbofan-e35d6",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 6500,
+        "url": "https://cateringequipment.com.au/turbofan-e35d6",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "005",
+    "brand": "Williams",
+    "model": "HJ2-SA",
+    "category": "Refrigeration",
+    "sub_category": "Upright Fridge",
+    "size": "2 Door",
+    "rrp": 4200,
+    "your_price": 3399,
+    "your_url": "https://eattucker.com/products/williams-hj2-sa",
+    "image_url": "https://via.placeholder.com/400x300/0066cc/ffffff?text=Williams+HJ2-SA",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 3699,
+        "url": "https://hospodirect.com.au/williams-hj2-sa",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 3899,
+        "url": "https://commercialkitchen.com.au/williams-hj2-sa",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 4100,
+        "url": "https://cateringequipment.com.au/williams-hj2-sa",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "006",
+    "brand": "Williams",
+    "model": "HJ3-SA",
+    "category": "Refrigeration",
+    "sub_category": "Upright Fridge",
+    "size": "3 Door",
+    "rrp": 5800,
+    "your_price": 4699,
+    "your_url": "https://eattucker.com/products/williams-hj3-sa",
+    "image_url": "https://via.placeholder.com/400x300/0066cc/ffffff?text=Williams+HJ3-SA",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 5099,
+        "url": "https://hospodirect.com.au/williams-hj3-sa",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 5299,
+        "url": "https://commercialkitchen.com.au/williams-hj3-sa",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 5600,
+        "url": "https://cateringequipment.com.au/williams-hj3-sa",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "007",
+    "brand": "Skope",
+    "model": "TME1000N-A",
+    "category": "Refrigeration",
+    "sub_category": "Upright Freezer",
+    "size": "2 Door",
+    "rrp": 4600,
+    "your_price": 3799,
+    "your_url": "https://eattucker.com/products/skope-tme1000n-a",
+    "image_url": "https://via.placeholder.com/400x300/003366/ffffff?text=Skope+TME1000N-A",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 4099,
+        "url": "https://hospodirect.com.au/skope-tme1000n-a",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 4299,
+        "url": "https://commercialkitchen.com.au/skope-tme1000n-a",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 2999,
+        "url": "https://cateringequipment.com.au/skope-tme1000n-a",
+        "status": "alert"
+      }
+    ]
+  },
+  {
+    "product_id": "008",
+    "brand": "Brice",
+    "model": "BMWD1260",
+    "category": "Dishwashers",
+    "sub_category": "Undercounter",
+    "size": "500mm",
+    "rrp": 3800,
+    "your_price": 2999,
+    "your_url": "https://eattucker.com/products/brice-bmwd1260",
+    "image_url": "https://via.placeholder.com/400x300/666666/ffffff?text=Brice+BMWD1260",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 3299,
+        "url": "https://hospodirect.com.au/brice-bmwd1260",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 3499,
+        "url": "https://commercialkitchen.com.au/brice-bmwd1260",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 3700,
+        "url": "https://cateringequipment.com.au/brice-bmwd1260",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "009",
+    "brand": "Comenda",
+    "model": "NF700",
+    "category": "Dishwashers",
+    "sub_category": "Passthrough",
+    "size": "700mm",
+    "rrp": 12500,
+    "your_price": 9999,
+    "your_url": "https://eattucker.com/products/comenda-nf700",
+    "image_url": "https://via.placeholder.com/400x300/666666/ffffff?text=Comenda+NF700",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 10999,
+        "url": "https://hospodirect.com.au/comenda-nf700",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 11499,
+        "url": "https://commercialkitchen.com.au/comenda-nf700",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 12200,
+        "url": "https://cateringequipment.com.au/comenda-nf700",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "010",
+    "brand": "Cobra",
+    "model": "CB4-LPG",
+    "category": "Cooking Equipment",
+    "sub_category": "Burner",
+    "size": "4 Burner",
+    "rrp": 1800,
+    "your_price": 1399,
+    "your_url": "https://eattucker.com/products/cobra-cb4-lpg",
+    "image_url": "https://via.placeholder.com/400x300/ff6600/ffffff?text=Cobra+CB4-LPG",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 1599,
+        "url": "https://hospodirect.com.au/cobra-cb4-lpg",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 1699,
+        "url": "https://commercialkitchen.com.au/cobra-cb4-lpg",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": null,
+        "url": "https://cateringequipment.com.au/cobra-cb4-lpg",
+        "status": "alert"
+      }
+    ]
+  },
+  {
+    "product_id": "011",
+    "brand": "Cobra",
+    "model": "CB6-LPG",
+    "category": "Cooking Equipment",
+    "sub_category": "Burner",
+    "size": "6 Burner",
+    "rrp": 2400,
+    "your_price": 1899,
+    "your_url": "https://eattucker.com/products/cobra-cb6-lpg",
+    "image_url": "https://via.placeholder.com/400x300/ff6600/ffffff?text=Cobra+CB6-LPG",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 2099,
+        "url": "https://hospodirect.com.au/cobra-cb6-lpg",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 2299,
+        "url": "https://commercialkitchen.com.au/cobra-cb6-lpg",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 2350,
+        "url": "https://cateringequipment.com.au/cobra-cb6-lpg",
+        "status": "warning"
+      }
+    ]
+  },
+  {
+    "product_id": "012",
+    "brand": "Anvil",
+    "model": "FTA0400",
+    "category": "Cooking Equipment",
+    "sub_category": "Fryer",
+    "size": "Single Pan",
+    "rrp": 2200,
+    "your_price": 1799,
+    "your_url": "https://eattucker.com/products/anvil-fta0400",
+    "image_url": "https://via.placeholder.com/400x300/cc6600/ffffff?text=Anvil+FTA0400",
+    "competitors": [
+      {
+        "name": "Hospo Direct",
+        "price": 1999,
+        "url": "https://hospodirect.com.au/anvil-fta0400",
+        "status": "normal"
+      },
+      {
+        "name": "Commercial Kitchen",
+        "price": 2099,
+        "url": "https://commercialkitchen.com.au/anvil-fta0400",
+        "status": "normal"
+      },
+      {
+        "name": "Catering Equipment",
+        "price": 2150,
+        "url": "https://cateringequipment.com.au/anvil-fta0400",
+        "status": "warning"
+      }
+    ]
+  }
+]
