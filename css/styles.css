@@ -5,8 +5,9 @@
 }
 
 :root {
-    --primary: #1a472a;
-    --secondary: #2d5f3f;
+    :root {
+    --primary: #0000ff;
+    --secondary: #0066ff;
     --accent: #ff6b35;
     --warning: #ffc107;
     --alert: #dc3545;
