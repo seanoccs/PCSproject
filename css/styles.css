@@ -18,8 +18,8 @@
 
 body {
     font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-    color: var(--text);
-    background: var(--light-bg);
+    color: #2c3e50;
+    background: #f8f9fa;
     line-height: 1.6;
 }
 
