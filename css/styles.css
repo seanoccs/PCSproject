@@ -554,18 +554,21 @@ nav {
     padding: 3rem;
     margin: 2rem 0;
     text-align: center;
+    min-height: 200px;
 }
 
 .welcome-section h2 {
-    color: var(--primary);
+    color: #0000ff;
     font-size: 2rem;
     margin-bottom: 1rem;
+    display: none;
 }
 
 .welcome-section p {
     font-size: 1.1rem;
     margin: 1rem 0;
     color: #555;
+    display: none;
 }
 
 /* Responsive Design */
