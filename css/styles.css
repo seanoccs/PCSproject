@@ -388,7 +388,6 @@ nav {
     margin: 2rem 0;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
-
 .comparison-table thead {
     background: var(--primary);
     color: white;
@@ -401,19 +400,43 @@ nav {
     font-size: 1.1rem;
 }
 
+.comparison-table th.price-column {
+    text-align: right;
+}
+
+.comparison-table th.alert-column {
+    text-align: center;
+}
+
 .comparison-table td {
-    padding: 1rem;
+    padding: 1.2rem 1rem;
     border-bottom: 1px solid var(--border);
+    vertical-align: middle;
 }
 
 .comparison-table tr:hover {
     background: #f8f9fa;
 }
 
+.price-column {
+    text-align: right;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.alert-column {
+    text-align: center;
+}
+
 .master-row {
     background: #e8f5e9 !important;
     font-weight: 600;
 }
+
+.master-row:hover {
+    background: #e8f5e9 !important;
+}
+
 
 .master-row:hover {
     background: #e8f5e9 !important;
