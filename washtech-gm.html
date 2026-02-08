@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washtech GM - Live Price Comparator</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🔥 Commercial Catering Equipment Price Comparison</h1>
+            <p>Australia's Best Prices on Quality Equipment - Compare & Save</p>
+        </div>
+    </header>
+    
+    <nav>
+        <div class="nav-container">
+            <a href="glasswashers.html" class="category-btn">← Back to Glasswashers</a>
+        </div>
+    </nav>
+    
+    <div class="container">
+        <div class="comparison-page">
+            <div class="comparison-header">
+                <h2>Washtech GM Live Price Comparator</h2>
+                <button class="update-btn" onclick="updatePrices()">🔄 Update Live</button>
+            </div>
+            
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Site</th>
+                        <th>RRP (ex GST)</th>
+                        <th>Price (ex GST)</th>
+                        <th>Alert</th>
+                        <th>Product Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- EatTucker (Master Price - Always True) -->
+                    <tr class="master-row">
+                        <td><strong>EatTucker</strong></td>
+                        <td class="rrp-cell">$6,210.00</td>
+                        <td class="price-cell">$4,450.00</td>
+                        <td class="alert-cell">
+                            <span class="alert-match">✓ Master Price</span>
+                        </td>
+                        <td>
+                            <a href="https://eattucker.com/all-products/washtech-gm-glasswasher-dishwasher/" target="_blank" class="product-link">Washtech GM</a>
+                        </td>
+                    </tr>
+                    
+                    <!-- Snowmaster -->
+                    <tr>
+                        <td>Snowmaster</td>
+                        <td class="rrp-cell">$6,210.00</td>
+                        <td class="price-cell">$4,995.00</td>
+                        <td class="alert-cell">
+                            <span class="alert-match">✓ Match</span>
+                        </td>
+                        <td>
+                            <a href="https://snowmaster.com.au/washtech-gm-undercounter-glasswasher-dishwasher" target="_blank" class="product-link">Washtech GM</a>
+                        </td>
+                    </tr>
+                    
+                    <!-- Cafeideas -->
+                    <tr>
+                        <td>Cafeideas</td>
+                        <td class="rrp-cell">$6,000.00</td>
+                        <td class="price-cell">$4,850.00</td>
+                        <td class="alert-cell">
+                            <span class="alert-outdated">⚠ Outdated</span>
+                        </td>
+                        <td>
+                            <a href="https://www.cafeideas.com.au/washtech-gm-professional-undercounter-glasswasher-light-duty-450mm-rack.html" target="_blank" class="product-link">Washtech GM</a>
+                        </td>
+                    </tr>
+                    
+                    <!-- SKC (Sydney Commercial Kitchens) -->
+                    <tr>
+                        <td>SKC</td>
+                        <td class="rrp-cell">$5,900.00</td>
+                        <td class="price-cell">$4,720.00</td>
+                        <td class="alert-cell">
+                            <span class="alert-significantly-outdated">⚠ Significantly Outdated</span>
+                        </td>
+                        <td>
+                            <a href="https://www.sydneycommercialkitchens.com.au/brands/washtech/washtech-professional-undercounter-glass-washer-gm" target="_blank" class="product-link">Washtech GM</a>
+                        </td>
+                    </tr>
+                    
+                    <!-- Hospitality Superstore -->
+                    <tr>
+                        <td>Hospit
