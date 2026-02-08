@@ -573,13 +573,33 @@ nav {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+    
+    header p {
+        font-size: 0.9rem;
+    }
+    
+    .nav-container {
+        justify-content: center;
+        padding: 0 10px;
+    }
+    
+    .category-btn {
+        font-size: 0.9rem;
+        padding: 0.6rem 1.2rem;
+    }
+    
     .comparison-header {
         flex-direction: column;
         align-items: flex-start;
     }
     
     .comparison-table {
-        font-size: 0.9rem;
+        font-size: 0.85rem;
+        display: block;
+        overflow-x: auto;
     }
     
     .comparison-table th,
@@ -589,5 +609,10 @@ nav {
     
     .button-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .large-btn {
+        font-size: 1.2rem;
+        padding: 1.5rem;
     }
 }
