@@ -48,24 +48,24 @@ header p {
     color: #0000ff;
 }
 
+/* Navigation */
 nav {
     background: white;
-    border-bottom: 3px solid var(--primary);
-    position: sticky;
-    top: 0;
-    z-index: 100;
+    border-bottom: 3px solid #0000ff;
+    padding: 1rem 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .nav-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    padding: 1rem 20px;
+    gap: 1rem;
+    padding: 0 20px;
+    justify-content: flex-start;
 }
 
 .category-btn {
-    background: var(--primary);
+    background: #0000ff;
     color: white;
     border: none;
     padding: 0.75rem 1.5rem;
@@ -74,19 +74,22 @@ nav {
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
-    flex: 1 1 auto;
-    min-width: 140px;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
 }
 
 .category-btn:hover {
-    background: var(--secondary);
+    background: #0066ff;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 .category-btn.active {
-    background: var(--accent);
+    background: #ff6b35;
 }
+    
+
 
 .size-filter {
     background: white;
