@@ -638,4 +638,31 @@ nav {
         font-size: 1.2rem;
         padding: 1.5rem;
     }
+    @media (max-width: 768px) {
+    .comparison-table {
+        font-size: 0.8rem;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    .comparison-table td {
+        padding: 0.8rem 0.5rem;
+    }
+    
+    .price-column {
+        font-size: 0.9rem;
+    }
+    
+    .product-link {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
+    }
+    
+    .alert-match,
+    .alert-outdated,
+    .alert-significantly-outdated {
+        padding: 0.3rem 0.6rem;
+        font-size: 0.75rem;
+    }
 }
